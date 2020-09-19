@@ -1,1 +1,1 @@
-# pastime
+# pasti
